@@ -14,12 +14,6 @@ I'm a **second-year Electrical Engineering student at IIT Roorkee**. I like doin
 
 `Natural Language Processing` · `Deep RL` · `Mechanistic Interpretability` · `AI Safety & Alignment` · `LLM Inference`
 
-### 📄 Publications
-
-**Format Compliance Masquerading as Reasoning Gain in Multimodal RLVR: A Case Study**
-Guneesh Gupta, **Anshul Tripathi**
-*NeurIPS 2026 Workshop on Foundations of LLM Post-Training in Changing Environments*
-
 ### 🚀 Things I've built
 
 | Project | What it does |
